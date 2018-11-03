@@ -1,0 +1,25 @@
+/*
+* Brooke Traver
+* 10/26/18
+* Scary Website created in class using brackets editor
+*/
+
+/* The universal seclector */
+
+* { 
+
+}
+
+ /* Body attributes here */
+ 
+ body {
+ 
+     background-color: mediumpurple;
+     
+     #mainheading{text-align: center}
+     
+     body {width: 80%}
+     
+     img {width: 200px; height: 150px; }
+     
+     }
